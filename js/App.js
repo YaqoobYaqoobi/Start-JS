@@ -3,7 +3,17 @@
 // py =3.15;
 //     console.log(py);
 
-const py = 3.14;
+const py = (22 );
     console.log(py);
-var  y =3.15;
+var  y ="yaqoobi";
     console.log(y);
+
+let f;
+    console.log(typeof f)
+
+
+let g="";
+    console.log(typeof g)    
+// console.log(py.length )
+
+console.log(typeof py)
