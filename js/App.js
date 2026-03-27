@@ -200,10 +200,18 @@
 //     console.log("Atefah")
 // }
 
-console.log('5'+20);
-console.log('20'-5);
-console.log('20'/5);
-console.log('20'*20);
-console.log(21111+5);
-console.log('gh'*'gh')
+// console.log('5'+20);
+// console.log('20'-5);
+// console.log('20'/5);
+// console.log('20'*20);
+// console.log(21111+5);
+// console.log('gh'*'gh')
 
+// var a = '200';
+// console.log( a);
+
+// var b = Number(a);
+// console.log( b);
+
+console.log(Boolean(0));
+console.log(Boolean(5));
