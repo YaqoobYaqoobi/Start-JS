@@ -213,5 +213,27 @@
 // var b = Number(a);
 // console.log( b);
 
-console.log(Boolean(0));
-console.log(Boolean(5));
+// console.log(Boolean(0));
+// console.log(Boolean(5));
+
+// console.log(Boolean('0'))
+// console.log(Boolean(''))
+// console.log(Boolean( 'milad'))
+
+// if(''){
+//     console.log('Yaqoobi');
+// }
+
+// for(var i =1; i <=10; i++){
+//     console.log('Yaqoobi');
+//     if (i == 5 ){
+//         break;
+//     }
+// }
+
+for (var i=1 ; i<=10;i++ ){
+    if( i%2==0){
+        continue;
+    }
+    console.log(i);
+}
