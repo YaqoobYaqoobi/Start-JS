@@ -231,9 +231,19 @@
 //     }
 // }
 
-for (var i=1 ; i<=10;i++ ){
-    if( i%2==0){
-        continue;
-    }
-    console.log(i);
-}
+// for (var i=1 ; i<=10;i++ ){
+//     if( i%2==0){
+//         continue;
+//     }
+//     console.log(i);
+// }
+
+// for(var a=1; a<=2; a++){
+//     console.log('outer'+a);
+//     for(var b=1; b<=3; b++){
+//         console.log('inner'+b);
+//     }
+// }
+
+
+
