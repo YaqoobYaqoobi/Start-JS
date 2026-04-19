@@ -10,7 +10,7 @@ body{
     border-radius: 20px;
     border:  2px solid ;
     box-shadow: 5px  5px  20px rgb(255, 255, 255) ;
-    background-image: url(/photo/1.jpg);
+    background-image: url(../photo/1.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -18,12 +18,13 @@ body{
 p{
 margin: 20rem 0 15rem 2rem;
 }
-.one_div{
+button{
     margin: 2rem 0 0rem 2rem;
     background-color: rgba(255,255, 255, 0.6);
     padding: 1rem 2rem;
     border-radius: 5px;
     border: none;
     font-size: 1rem;
+    cursor: alias;
 }
 
