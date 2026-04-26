@@ -8,9 +8,14 @@
 // console.log(Y)
 
 
-var Ahamd= 'Hi good buy';
+// var Ahamd= 'Hi good buy';
 
-    console.log(Ahamd)
+//     console.log(Ahamd)
 
-    console.log(Ahamd.length)
-    console.log(Ahamd.type)
+//     console.log(Ahamd.length)
+//     console.log(Ahamd.type)
+
+var h = ahmad ;
+var y= Yasen;
+
+console.log(h+y);
